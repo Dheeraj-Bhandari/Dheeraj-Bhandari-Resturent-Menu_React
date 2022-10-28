@@ -226,3 +226,12 @@ input:focus {
   -webkit-transform: translateY(0) scale(1, 1);
   transform: translateY(0) scale(1, 1);
 }
+
+#madewithlove{
+  color: white;
+  margin-top: 50vh;
+  font-size: large;
+}
+#madewithlove span{
+  color: red;
+}
